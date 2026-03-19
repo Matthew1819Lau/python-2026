@@ -164,3 +164,7 @@ cython_debug/
 
 student-codes-data/*.*
 student-codes-data/
+
+#We do not want to make the key public
+files/openrouter.key
+
